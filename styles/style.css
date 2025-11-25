@@ -222,7 +222,7 @@
 
 @media (width >= 767px) and (max-width: 1023px) {
   :root {
-    --primary-title-font-size: 7.5rem;
+    --primary-title-font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   }
 
   /* MEDIA HEADER */
@@ -351,7 +351,7 @@
 
 @media (width >= 1024px) {
   :root {
-    --primary-title-font-size: 9.8125rem;
+    --primary-title-font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   }
 
   /* M HEADER */

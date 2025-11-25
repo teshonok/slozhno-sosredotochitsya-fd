@@ -14,5 +14,5 @@
   --content-text-color: #f1b2ce;
   --main-font-size: 1.125rem;
   --main-line-height: 1.4625rem;
-  --primary-title-font-size: 7.25rem;
+  --primary-title-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
