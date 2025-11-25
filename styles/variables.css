@@ -5,11 +5,13 @@
 :root {
   --cover-image: url(../images/cover-image-dark.png);
   --main-background-color: #000028;
-  --primary-title-color: #DB00FF;
-  --accent-color: #FF0070;
-  --accent-color-rgb: 255, 0, 112, 1;
+  --primary-title-color: #db00ff;
+  --accent-color: #ff0070;
+  --section-title-color: #ff0070;
+  --button-color: #ff0070;
+  --decor-color: #ff0070;
   --title-decor-color: #000028;
-  --content-text-color: #F1B2CE;
+  --content-text-color: #f1b2ce;
   --main-font-size: 1.125rem;
   --main-line-height: 1.4625rem;
   --primary-title-font-size: 7.25rem;
