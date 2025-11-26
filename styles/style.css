@@ -305,7 +305,6 @@
 
   .section-causes {
     margin-block-start: 83px;
-    display: flex;
     flex-wrap: wrap;
     display: grid;
     gap: 20px;
@@ -451,12 +450,6 @@
 
   .section-advices .list {
     gap: 22px;
-  }
-
-  .section-causes .list {
-    gap: 23px;
-    grid-column: 1 / 4;
-    grid-row: 2;
   }
 
   .section-causes .list-item {
