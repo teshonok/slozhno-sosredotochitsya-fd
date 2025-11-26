@@ -23,7 +23,7 @@
     --section-title-color: #353430;
   }
 
-  .header__decorated-text {
+  .theme-auto .header__decorated-text {
     display: none;
   }
 }
